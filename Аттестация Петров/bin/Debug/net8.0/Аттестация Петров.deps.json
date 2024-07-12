@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Аттестация Петров/1.0.0": {
+        "runtime": {
+          "Аттестация Петров.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Аттестация Петров/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
